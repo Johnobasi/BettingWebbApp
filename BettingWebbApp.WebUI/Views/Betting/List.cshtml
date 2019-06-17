@@ -1,0 +1,11 @@
+﻿@model IEnumerable <BettingWebbApp.Domain.Entities.Betting>
+
+@{
+    ViewBag.Title = "Bettings";
+}
+
+@foreach (var b in Model)
+{
+    @Html.Partial("BettingSummaryView", b)
+}
+
