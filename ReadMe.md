@@ -22,10 +22,14 @@ In package manager console run the following commands;
     
 -  update-database
 
-
-
 Run the project. 
 Go to   http://localhost:http://localhost:49939/ to see all Odds (GIG-POC-1, GIG-POC-2, GIG-POC-3)
 
 Go to   http://localhost:http://localhost:49939/Admin/Index for admin (GIG-POC-4, GIG-POC-5)
 Enjoy
+
+PROJECT CHALLENGES
+-----------------
+i. I worked over the weekend at home with no internet to push this project to github upon start of development.
+ii. Had issues installing bitbucket extension
+iii. Choice of MVC5 is upon flexibility afforded me on the "Development guideline" section of Test_doc
